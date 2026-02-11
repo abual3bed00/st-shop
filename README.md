@@ -1,5 +1,5 @@
 # st-shop
-Advanced shop for Fivem support qbcore framework with modern ui with support qb-target &amp; ox
+
 ---
 # 🏪 ST-Shop - FiveM Advanced Shop System
 
@@ -11,8 +11,8 @@ Advanced shop for Fivem support qbcore framework with modern ui with support qb-
 </div>
 
 <p align="center">
-  <b>نظام متاجر متكامل مع واجهة NUI عصرية ونظام تفاعل متطور</b><br>
-  <i>Complete shop system with modern NUI interface and advanced interaction system</i>
+  <b>متجر متطور لـ FiveM يدعم إطار عمل qbcore مع واجهة مستخدم حديثة، ويدعم qb-target و ox</b><br>
+  <i>Advanced shop for Fivem support qbcore framework with modern ui with support qb-target &amp; ox</i>
 </p>
 
 ---
