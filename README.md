@@ -56,12 +56,10 @@ Advanced shop for Fivem support qbcore framework with modern ui with support qb-
 > 🎥 **Screenshots**:
 
 
-```
 <img width="1096" height="681" alt="image2" src="https://github.com/user-attachments/assets/84ea4fd6-4886-44d7-844b-dc1379b8d59f" />
 
 <img width="1174" height="697" alt="image1" src="https://github.com/user-attachments/assets/0823fef3-70e6-4628-a783-cbc342ebac59" />
 
-```
 
 ---
 
